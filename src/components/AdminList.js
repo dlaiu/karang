@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 
-class landing extends Component {
+class AdminList extends Component {
 	render() {
 		return (
 			<View>
@@ -11,4 +11,4 @@ class landing extends Component {
 	}
 }
 
-export default landing;
+export default AdminList;
